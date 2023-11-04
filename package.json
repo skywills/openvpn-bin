@@ -1,7 +1,7 @@
 {
-    "name": "openvpn-bin",
+    "name": "node-openvpn-bin",
     "version": "0.1.2",
-    "description": "Initialize a openvpn instance for mac, windows & linux",
+    "description": "a fork from luigiplr/openvpn-bin Initialize a openvpn instance for mac, windows & linux",
     "author": {
         "name": "Luigi Poole",
         "email": "luigipoole@outlook.com"
